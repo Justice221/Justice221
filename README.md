@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://dreamy-lovelace-a40bb2.netlify.app/](https://dreamy-lovelace-a40bb2.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dreamy-lovelace-a40bb2.netlify.app/]([https://justice221.github.io/jaywantj/])
 
 - 💬 Ask me about **React Redux**
 
