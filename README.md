@@ -8,6 +8,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=Justice221&icon=0&color=white)](https://visitcount.itsvg.in)
